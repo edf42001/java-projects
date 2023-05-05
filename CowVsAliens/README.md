@@ -12,6 +12,4 @@ Here are some of my game's features:
 * Hit and death animations
 * Controller support (tested on a mac computer, in 2018)
 
-![Cows Vs Aliens Main Menu](../media/cows_main_menu.png)
-![Cows Vs Aliens Level Select](../media/cows_level_select.png)
-![Cows Vs Aliens Gameplay](../media/cows_gameplay.png)
+<img src='../media/cows_main_menu.png' width='400'> <img src='../media/cows_level_select.png' width='400'> <img src='../media/cows_gameplay.png' width='400'>
