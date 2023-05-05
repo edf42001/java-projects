@@ -15,7 +15,7 @@ public class GraphicsMain extends JFrame{
 	        JPanel p = new JPanel();
 	        p.add(new GraphicsPanel());  //  add a class that extends JPanel
 	       
-	        window.setTitle("Ethan's Graphics Program");
+	        window.setTitle("Mandelbrot Graphics Program");
 	        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	        window.setContentPane(p);
@@ -27,4 +27,3 @@ public class GraphicsMain extends JFrame{
 		}
 
 }
-
