@@ -1,10 +1,14 @@
 # Genetic Algorithms
 
+*I have preserved this high school project as-is, only recently adding this readme.*
+
+---
+
 The genetic algorithm is a machine learning algorithm based on the concept of evolution. Individuals within a population 
 "compete" with each other, and the "fittest" individuals are more likely to "reproduce" and create offspring for the next generation.
 The population as a whole evolves to become better at maximizing the fitness function.
 
-![Genetic Algorithm GIF](../media/genetic_algorithm_dots.gif)
+<img src="../media/genetic_algorithm_dots.gif" width="600">
 
 ### Overview
 
